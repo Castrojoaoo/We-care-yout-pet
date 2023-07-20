@@ -1,0 +1,94 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700;900&display=swap');
+
+
+* {
+    font-family: 'Montserrat', sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: #effafa;
+
+}
+
+.mue {
+    width: 800px;
+    height: 700px;
+    margin-left: 125px;
+    display: inline-block;
+}
+
+.top {
+    margin: 44px 0px 144px 116px;
+}
+
+.link-header {
+    font-size: 60px;
+    color: #989D9C;
+    font-weight: 600;
+    cursor: pointer;
+    margin-right: 23px;
+    line-height: 29px;
+    letter-spacing: 10px;
+    
+
+}
+
+#log {
+    width: 270px;
+    height: 85px;
+    background-color: #665AE1;
+    color: #FFF;
+    font-size: 60px;
+    font-weight: 600;
+    line-height: normal;
+    border-radius: 50px;
+    cursor: pointer;
+    border: none;
+    text-transform: uppercase;
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+}
+
+.titulo {
+    color: #515151;
+    font-size: 130px;
+    font-weight: 900;
+    line-height: normal;
+}
+
+section{
+    display: inline-block;
+
+}
+
+.sobret{
+    color: #515151;
+    font-size: 78px;
+    font-weight: 500;
+    line-height: normal;
+}
+
+.sobre{
+    color: #848484;
+    font-size: 30px;
+    font-weight: 400;
+    line-height: normal;
+    width: 555px;
+    margin-top: 32px;
+    margin-bottom: 65px;
+    text-align: justify;
+}
+
+.explorar{
+    border-radius: 30px;
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+    width: 239px;
+    height: 64px;
+    background: #ADFF00;
+    border: none ; 
+    font-size: 28px;
+    font-weight: 700;
+    line-height: normal;
+    color: #000000 ; 
+    text-transform: uppercase ; 
+    cursor: pointer;
+}
